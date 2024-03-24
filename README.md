@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
 
-- 💬 About me
+- 💬 About me:
   Results-driven and detail-oriented Data Analyst with 7 years of experience in analysing complex data sets, deriving actionable insights and implementation data-driven solutions.
   
 - 📫 How to reach me **danycsantana@live.com**
