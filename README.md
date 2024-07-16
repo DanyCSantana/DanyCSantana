@@ -3,7 +3,7 @@
   Let's make data easy to work with together! 📊✨</h3>
 
 - 👨‍💻 Check my portfolio at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
-  All of my projects are available at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
+- - All of my projects are available at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
 
 - 💬 About me:
   Results-driven and detail-oriented Data Analyst with 7 years of experience in analysing complex data sets, deriving actionable insights and implementation data-driven solutions.
