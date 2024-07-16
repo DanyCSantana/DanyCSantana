@@ -2,7 +2,8 @@
 <h3 align="center"> A dedicated Data professional based in Dublin, passionate about simplifying complex data and transforming it into actionable insights.
   Let's make data easy to work with together! 📊✨</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
+- 👨‍💻 Check my portfolio at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
+  All of my projects are available at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
 
 - 💬 About me:
   Results-driven and detail-oriented Data Analyst with 7 years of experience in analysing complex data sets, deriving actionable insights and implementation data-driven solutions.
