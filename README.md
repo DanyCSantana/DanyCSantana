@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Danyella 👋 </h1>
+<h1 align="center">Hi , I'm Danyella! </h1>
 <h3 align="center"> A dedicated Data professional based in Dublin, passionate about simplifying complex data and transforming it into actionable insights.
   Let's make data easy to work with together! 📊✨</h3>
 
