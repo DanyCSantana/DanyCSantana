@@ -5,7 +5,10 @@
 - 👨‍💻 Check my portfolio at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
 
 - 💬 About me:
-  Results-driven and detail-oriented Data Analyst with 6 years of experience in analysing complex data sets, deriving actionable insights and implementation data-driven solutions.
+  6+ years of experience turning complex data into actionable insights. At Inflight Dublin, I manage media-related data and streamline workflows, reducing workload and enhancing decision-making using Python and Power BI. Previously, at Oi S.A., I used SAS Enterprise Guide with SQL to manage a large telecom database, driving improvements in retention and decision-making.
+I’m passionate about making data work smarter for teams and have a keen attention to detail that ensures accuracy in all my analyses. I’m excited about diving deeper into advanced analytics and machine learning.
+Fluent in English, Portuguese, and Spanish, I thrive in diverse, dynamic, and collaborative environments.
+
   
 - 📫 How to reach me **danycsantana@live.com**
 
