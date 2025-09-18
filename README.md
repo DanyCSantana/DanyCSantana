@@ -1,26 +1,54 @@
-<h1 align="center">Hi , I'm Danyella! </h1>
-<h3 align="center"> A dedicated Data professional based in Dublin, passionate about simplifying complex data and transforming it into actionable insights.
-  Let's make data easy to work with together! 📊✨</h3>
+# Hi, I'm Danyella Santana 👋  
 
-- 👨‍💻 Check my portfolio at [https://github.com/DanyCSantana/Portfolio](https://github.com/DanyCSantana/Portfolio)
+📊 **Data Analyst | SQL | Python | Power BI | Tableau**  
+Based in Dublin, Ireland 🇮🇪 | Fluent in English, Portuguese, and Spanish 🌍  
 
-- 💬 About me:
-  6+ years of experience turning complex data into actionable insights. At Inflight Dublin, I manage media-related data and streamline workflows, reducing workload and enhancing decision-making using Python and Power BI. Previously, at Oi S.A., I used SAS Enterprise Guide with SQL to manage a large telecom database, driving improvements in retention and decision-making.
-I’m passionate about making data work smarter for teams and have a keen attention to detail that ensures accuracy in all my analyses. I’m excited about diving deeper into advanced analytics and machine learning.
-Fluent in English, Portuguese, and Spanish, I thrive in diverse, dynamic, and collaborative environments.
+---
 
-  
-- 📫 How to reach me **danycsantana@live.com**
+## 🚀 About Me
+I’m a Data professional with **7+ years of experience** turning complex data into clear, actionable insights.  
+Currently at **Inflight Dublin**, I lead automation initiatives that save hundreds of hours, streamline image & data workflows, and ensure operational excellence.  
+Previously at **Oi S.A.**, I managed a **telecom database of 8M+ customers**, using SQL and SAS to deliver churn, retention, and predictive insights.  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danyella-santana/](https://www.linkedin.com/in/danyella-santana/)
+🔎 I love solving data challenges, building automation tools, and creating impactful dashboards that help businesses make smarter decisions.  
 
+---
 
+## 💡 Featured Projects
+Here are some highlights from my portfolio:  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- 📂 **[Sales Insights with SQL, Python & Power BI](https://github.com/DanyCSantana/sql-python-powerbi-sales-insights)**  
+  Full end-to-end project using SQL + Python for ETL and Power BI for business reporting.  
 
+- 🖼 **[Image Automation Suite](https://github.com/DanyCSantana/image_automation_suite)**  
+  Automated resizing, cropping, and organizing of 30,000+ inflight entertainment images, reducing manual work by 90%.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danyella-santana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danyella-santana/" height="30" width="40" /></a>
-</p>
+- 🔎 **[Bulk Dropbox Downloader with OCR](https://github.com/DanyCSantana/Automate-Dropbox-downloader)**  
+  Python script that downloads & classifies media assets with OCR, replacing hours of manual sorting.  
+
+- 📉 **[Telecom Churn Analysis](https://github.com/DanyCSantana/Churn-Project-Coursera)**  
+  Customer churn insights using Python (pandas, matplotlib, seaborn) with actionable retention strategies.  
+
+---
+
+## 🎓 Education & Certifications
+- 📕 **Bachelor of Business Administration** – UFRRJ  
+- 🎓 **MBA in IT Project Management** – FAVENI  
+- 📊 **Introductory Data Analytics** – UCD Professional Academy  
+- 📑 **Google Advanced Data Analytics Professional Certificate**  
+
+---
+
+## 🛠 Tech Stack
+**Languages & Tools:**  
+SQL | Python (pandas, openpyxl, Pillow) | Power BI | Tableau | SAS | Excel (VBA) | Photoshop Automation  
+
+---
+
+## 📫 Let’s Connect
+- 💌 Email: **danycsantana@live.com**  
+- 💼 LinkedIn: [Danyella Santana](https://www.linkedin.com/in/danyella-santana)  
+- 📂 Portfolio Repo: [Here](https://github.com/DanyCSantana/Portfolio)  
+
+---
+✨ Always curious, always building — let’s make data work smarter!  
