@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FC5E2E?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-green?logo=power-bi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-orange?logo=tableau&logoColor=white)
 # Hi, I'm Danyella Santana 👋  
 
 📊 **Data Analyst | SQL | Python | Power BI | Tableau**  
