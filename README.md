@@ -26,7 +26,7 @@ Here are some highlights from my portfolio:
   Full end-to-end project using SQL + Python for ETL and Power BI for business reporting.  
 
 - 🖼 **[Image Automation Suite](https://github.com/DanyCSantana/image_automation_suite)**  
-  Automated resizing, cropping, and organizing of 30,000+ inflight entertainment images, reducing manual work by 90%.  
+  Automated resizing, cropping, and organizing of 30,000+ entertainment images, reducing manual work by 90%.  
 
 - 🔎 **[Bulk Dropbox Downloader with OCR](https://github.com/DanyCSantana/Automate-Dropbox-downloader)**  
   Python script that downloads & classifies media assets with OCR, replacing hours of manual sorting.  
