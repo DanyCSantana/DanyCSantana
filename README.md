@@ -37,8 +37,7 @@ Here are some highlights from my portfolio:
 ---
 
 ## 🎓 Education & Certifications
-- 📕 **Bachelor of Business Administration** – UFRRJ  
-- 🎓 **MBA in IT Project Management** – FAVENI  
+- 📕 **Bachelor of Business Administration** – UFRRJ   
 - 📊 **Introductory Data Analytics** – UCD Professional Academy  
 - 📑 **Google Advanced Data Analytics Professional Certificate**  
 
