@@ -1,0 +1,53 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="0" x2="1160" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.58" stop-color="#111B35"/>
+      <stop offset="1" stop-color="#152B45"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#54E6C5"/>
+      <stop offset="1" stop-color="#55A7FF"/>
+    </linearGradient>
+    <linearGradient id="line" x1="740" y1="250" x2="1120" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#54E6C5"/>
+      <stop offset="1" stop-color="#79A8FF"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="340" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="54" r="120" fill="#296E87" opacity=".16" filter="url(#shadow)"/>
+  <circle cx="790" cy="315" r="140" fill="#4C62B4" opacity=".14" filter="url(#shadow)"/>
+  <g opacity=".13" stroke="#A9C5E9">
+    <path d="M620 48H1150M620 98H1150M620 148H1150M620 198H1150M620 248H1150"/>
+    <path d="M670 30V278M770 30V278M870 30V278M970 30V278M1070 30V278"/>
+  </g>
+  <rect x="58" y="52" width="8" height="236" rx="4" fill="url(#accent)"/>
+  <text x="92" y="84" fill="#8CE8D7" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">BUSINESS • DATA • INSIGHTS</text>
+  <text x="90" y="152" fill="#F5F8FF" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700">Danyella Santana</text>
+  <text x="92" y="198" fill="#C4D2E8" font-family="Arial, Helvetica, sans-serif" font-size="24">Business &amp; Data Analyst</text>
+  <text x="92" y="239" fill="#9FB4D0" font-family="Arial, Helvetica, sans-serif" font-size="17">Analytics  /  Automation  /  AI-enabled workflows</text>
+  <rect x="92" y="267" width="164" height="34" rx="17" fill="#173B4B" stroke="#3B9E91" stroke-opacity=".65"/>
+  <text x="174" y="289" text-anchor="middle" fill="#A7F2E3" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">DUBLIN, IRELAND</text>
+  <g>
+    <rect x="666" y="46" width="484" height="245" rx="18" fill="#101B30" stroke="#45627F" stroke-opacity=".65"/>
+    <text x="696" y="78" fill="#D7E6F7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">INSIGHT WORKFLOW</text>
+    <text x="696" y="105" fill="#7E9AB8" font-family="Arial, Helvetica, sans-serif" font-size="12">From raw data to business decisions</text>
+    <g opacity=".9">
+      <rect x="704" y="207" width="28" height="51" rx="5" fill="#285D70"/>
+      <rect x="750" y="181" width="28" height="77" rx="5" fill="#2E7D85"/>
+      <rect x="796" y="193" width="28" height="65" rx="5" fill="#387D93"/>
+      <rect x="842" y="150" width="28" height="108" rx="5" fill="#397F9F"/>
+      <rect x="888" y="165" width="28" height="93" rx="5" fill="#468DAB"/>
+      <rect x="934" y="128" width="28" height="130" rx="5" fill="#4A9DB0"/>
+    </g>
+    <path d="M694 190C738 178 750 147 790 157C830 167 844 122 882 133C922 145 948 91 991 104C1032 116 1052 73 1110 86" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M694 190C738 178 750 147 790 157C830 167 844 122 882 133C922 145 948 91 991 104C1032 116 1052 73 1110 86V258H694V190Z" fill="url(#accent)" opacity=".08"/>
+    <circle cx="1110" cy="86" r="6" fill="#74E8D0"/>
+    <rect x="986" y="218" width="132" height="44" rx="10" fill="#183247" stroke="#426D83"/>
+    <text x="1001" y="236" fill="#87A9C6" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">DATA → ACTION</text>
+    <text x="1001" y="253" fill="#E8F4FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">INSIGHT-LED</text>
+  </g>
+</svg>
