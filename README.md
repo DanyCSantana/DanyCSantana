@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="33%">
       <h2>800K+</h2>
-      <sub>Active SuperValu loyalty-card customers in the data scope</sub>
+      <sub>Active loyalty-card customers </sub>
     </td>
   </tr>
   <tr>
